@@ -1,0 +1,4 @@
+C:\Users\opilane\source\repos\LOGITpe21\Kuud\Kuud\obj\Debug\netcoreapp3.1\Kuud.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\LOGITpe21\Kuud\Kuud\obj\Debug\netcoreapp3.1\Kuud.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\LOGITpe21\Kuud\Kuud\obj\Debug\netcoreapp3.1\Kuud.AssemblyInfo.cs
+C:\Users\opilane\source\repos\LOGITpe21\Kuud\Kuud\obj\Debug\netcoreapp3.1\Kuud.csproj.CoreCompileInputs.cache
